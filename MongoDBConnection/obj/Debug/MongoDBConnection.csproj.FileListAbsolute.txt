@@ -1,0 +1,12 @@
+E:\visualstudio2012\Projects\MongoDBConnection\MongoDBConnection\bin\Debug\MongoDBConnection.exe.config
+E:\visualstudio2012\Projects\MongoDBConnection\MongoDBConnection\bin\Debug\MongoDBConnection.exe
+E:\visualstudio2012\Projects\MongoDBConnection\MongoDBConnection\bin\Debug\MongoDBConnection.pdb
+E:\visualstudio2012\Projects\MongoDBConnection\MongoDBConnection\bin\Debug\MongoDB.Bson.dll
+E:\visualstudio2012\Projects\MongoDBConnection\MongoDBConnection\bin\Debug\MongoDB.Driver.dll
+E:\visualstudio2012\Projects\MongoDBConnection\MongoDBConnection\bin\Debug\MongoDB.Bson.pdb
+E:\visualstudio2012\Projects\MongoDBConnection\MongoDBConnection\bin\Debug\MongoDB.Bson.xml
+E:\visualstudio2012\Projects\MongoDBConnection\MongoDBConnection\bin\Debug\MongoDB.Driver.pdb
+E:\visualstudio2012\Projects\MongoDBConnection\MongoDBConnection\bin\Debug\MongoDB.Driver.xml
+E:\visualstudio2012\Projects\MongoDBConnection\MongoDBConnection\obj\Debug\MongoDBConnection.csprojResolveAssemblyReference.cache
+E:\visualstudio2012\Projects\MongoDBConnection\MongoDBConnection\obj\Debug\MongoDBConnection.exe
+E:\visualstudio2012\Projects\MongoDBConnection\MongoDBConnection\obj\Debug\MongoDBConnection.pdb

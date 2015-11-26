@@ -1,0 +1,14 @@
+E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\samusConnection.exe.config
+E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\samusConnection.exe
+E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\samusConnection.pdb
+E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\MongoDB.dll
+E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\MongoDB.GridFS.dll
+E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\MongoDB.xml
+E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\MongoDB.GridFS.xml
+E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\obj\Debug\samusConnection.csprojResolveAssemblyReference.cache
+E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\obj\Debug\samusConnection.exe
+E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\obj\Debug\samusConnection.pdb
+E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\MongoDB.Driver.dll
+E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\MongoDB.Linq.dll
+E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\MongoDB.Driver.xml
+E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\MongoDB.Linq.xml
