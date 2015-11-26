@@ -7,6 +7,9 @@ using MongoDB.Driver;
 
 namespace MongoDBConnection
 {
+    /// <summary>
+    /// 官方驱动
+    /// </summary>
     class Program
     {
         //数据库连接字符串

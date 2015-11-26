@@ -12,6 +12,10 @@ using MongoDB.Driver;
 
 namespace samusConnection
 {
+    /// <summary>
+    /// 第三方的驱动
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
     public class MongodbHelper<T> where T:class
     {
         string connectionString = string.Empty;

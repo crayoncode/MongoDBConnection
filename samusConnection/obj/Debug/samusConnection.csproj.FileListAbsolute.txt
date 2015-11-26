@@ -12,3 +12,6 @@ E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\MongoDB
 E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\MongoDB.Linq.dll
 E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\MongoDB.Driver.xml
 E:\visualstudio2012\Projects\MongoDBConnection\samusConnection\bin\Debug\MongoDB.Linq.xml
+E:\mongos\MongoDBConnection\samusConnection\bin\Debug\samusConnection.exe.config
+E:\mongos\MongoDBConnection\samusConnection\obj\Debug\samusConnection.exe
+E:\mongos\MongoDBConnection\samusConnection\obj\Debug\samusConnection.pdb
